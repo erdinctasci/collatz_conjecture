@@ -13,10 +13,10 @@ This Python script implements an algorithm to solve the Collatz Conjecture, also
 To run this script, you will need Python installed on your computer. Follow these steps:
 
 1. Ensure you have Python installed. You can download it from [python.org](https://www.python.org/).
-2. Download the `collatz_steps.py` file from this repository.
+2. Download the `collatz_assumption.py` file from this repository.
 3. Open a terminal or command prompt.
-4. Navigate to the directory where you downloaded `collatz_steps.py`.
-5. Run the script by typing `python collatz_steps.py` and follow the on-screen instructions.
+4. Navigate to the directory where you downloaded `collatz_assumption.py`.
+5. Run the script by typing `python collatz_assumption.py` and follow the on-screen instructions.
 
 ## Usage
 
